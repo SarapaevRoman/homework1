@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\obj\Debug\net6.0\Houmwork01_2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\obj\Debug\net6.0\Houmwork01_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\obj\Debug\net6.0\Houmwork01_2.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\obj\Debug\net6.0\Houmwork01_2.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\obj\Debug\net6.0\Houmwork01_2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\bin\Debug\net6.0\Houmwork01_2.exe
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\bin\Debug\net6.0\Houmwork01_2.deps.json
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\bin\Debug\net6.0\Houmwork01_2.runtimeconfig.json
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\bin\Debug\net6.0\Houmwork01_2.dll
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\bin\Debug\net6.0\Houmwork01_2.pdb
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\obj\Debug\net6.0\Houmwork01_2.dll
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\obj\Debug\net6.0\refint\Houmwork01_2.dll
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\obj\Debug\net6.0\Houmwork01_2.pdb
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\obj\Debug\net6.0\Houmwork01_2.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\C#\seminar\Houmwork01_2\obj\Debug\net6.0\ref\Houmwork01_2.dll
